@@ -104,7 +104,7 @@ class _HomePageState extends State<HomePage> {
           Padding(
             padding: const EdgeInsets.symmetric(horizontal: 16),
             child: Card(
-              elevation: 5,
+              elevation: 3,
               child: ListTile(
                 trailing: Row(
                   mainAxisSize: MainAxisSize.min,
@@ -133,7 +133,7 @@ class _HomePageState extends State<HomePage> {
           Padding(
             padding: const EdgeInsets.symmetric(horizontal: 16),
             child: Card(
-              elevation: 5,
+              elevation: 3,
               child: ListTile(
                 trailing: Row(
                   mainAxisSize: MainAxisSize.min,
