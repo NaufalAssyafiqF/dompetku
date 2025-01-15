@@ -171,6 +171,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.12.16+1"
+  material_color_scheme:
+    dependency: "direct main"
+    description:
+      name: material_color_scheme
+      sha256: "4d38bdc5e1b5e60cb1ea163e10dab4422496a51a865d6fe59540f24de8cd729d"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.3"
   material_color_utilities:
     dependency: transitive
     description:
